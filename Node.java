@@ -1,4 +1,3 @@
-// Artem Tagintsev, CSE223, PA4, 05/17/2024
 // The Node class basically represents a single node in the tree for which each node is either a question or answer node. This class builds the structture of the node with data, no, yes. The constructor initializes our node with the data we specify, the isQuesion method checks if the node is a question node or an answer now, and the traverse method will recursively traverse the tree in NLR order and write into the file.
 import java.util.Scanner;
 import java.io.File;
