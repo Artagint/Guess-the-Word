@@ -1,4 +1,3 @@
-// Artem Tagintsev, CSE223, PA4, 05/17/2024
 // The TwentyQ class is basically the main file of this program and handles the initial setup, interactions with the user, and the flow of the game. The class checks if the proper of the command line argument was given, creates new instance of the tree, checks if the textfile properly ingested, and a new scanner, call the method to play the game, and close the scanner.
 import java.util.Scanner;
 import java.io.File;
