@@ -1,4 +1,3 @@
-// Artem Tagintsev, CSE223, PA4, 05/17/2024
 // The Tree class essentially manages the structure of the decision tree. The tree declares a Node root as null, ingest method, read the tree in NLR older using the readTree method, play the game in the playGame method, and update the tree using the writeBack method. The logic of the class has the user response to questions with a 'y' or 'n' until an answer node is hit which then the user respondes with 'y' if the answer is right, or 'n' if its wrong, then the game asks the user to update the tree by asking for the right answer and a new question for that answer. 
 import java.util.Scanner;
 import java.io.File;
